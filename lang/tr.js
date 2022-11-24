@@ -1,0 +1,22 @@
+const tr = {
+    analyze_menu: 'Analiz',
+    settings: "Ayarlar",
+    select_gallery: "Galeriden Seç",
+    take_photo: "Fotoğraf Çek",
+    analyze: "Analiz Et",
+    photos_selected: "adet fotoğraf seçildi.",
+    no_photos_selected: "Fotoğraf Seçilmedi.",
+    change_lang: "Dili Değiştir",
+    server_ip: "Sunucu IP",
+    live_cell: "Canlı Hücre Sayısı:",
+    dead_cell: "Ölü Hücre Sayısı:",
+    total_cell: "Toplam Hücre Sayısı:",
+    cell_viability: "Hücre Canlılığı:",
+    alive_ml: "mililitre başına canlı hücre",
+    dead_ml: "mililitre başına ölü hücre",
+    total_ml: "mililitre başına toplam hücre",
+    analyzing: "Analiz Ediliyor...",
+    no_server: "Sunucuya Erişilemedi",
+    dilution_factor: "Seyreltme Faktörünü Giriniz (Opsiyonel)",
+  };
+  export default tr;
